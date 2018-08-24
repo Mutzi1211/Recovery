@@ -18,6 +18,10 @@ First Upload (Stand 24.08.18):
 
 	side_deploy_v2.1 - door
 
+Teileliste:
+
+	Teileliste.xlsx
+	
 Board:
 
 	9Dof-Razor-IMU M0
