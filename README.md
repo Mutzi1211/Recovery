@@ -20,13 +20,12 @@ First Upload (Stand 24.08.18):
 
 Board:
 
-	9Dof-Razor-IMU aus github/turbinenreiter/9Dof-Razor-Imu
+	9Dof-Razor-IMU M0
+	
+Firmware:
+
+	https://github.com/turbinenreiter/9DOF_Razor_IMU/tree/add-baro
 
 Shop : 
 
-	Sparkfun: 9DoF Razor IMU M0
-
-Software:
-
-	_9DoF_Razor_M0_Firmware.ino:
-	github/turbinenreiter/9DOF_Razor_IMU/add-bar (!Achtung branch!)
+	Sparkfun
