@@ -22,10 +22,6 @@ Teileliste:
 
 	Teileliste.xlsx
 	
-Board:
-
-	9Dof-Razor-IMU M0
-	
 Firmware:
 
 	https://github.com/turbinenreiter/9DOF_Razor_IMU/tree/add-baro
