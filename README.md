@@ -29,7 +29,3 @@ Board:
 Firmware:
 
 	https://github.com/turbinenreiter/9DOF_Razor_IMU/tree/add-baro
-
-Shop : 
-
-	Sparkfun
