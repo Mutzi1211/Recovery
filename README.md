@@ -1,7 +1,7 @@
 # Recovery
 Repo for the Recovery Project at SL-OP
 
-	Projekt zur Dokumentation des MoRaBa Recovery-Experimentes am DLR-School-Lab in Oberpfaffenhofen 
+Projekt zur Dokumentation des MoRaBa Recovery-Experimentes am DLR-School-Lab in Oberpfaffenhofen 
 
 Ziel: 
 	Dokumentation der bestehenden Soft- und Hardware zur Sicherstellung des reibungslosen Betriebs des Experimentes, auch nach              	Abgang aller daran aktuell beteiligten Betreuer
